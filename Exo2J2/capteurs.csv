@@ -1,0 +1,5 @@
+capteur,valeur
+A1,22.5
+A2,-300        # sous le zéro absolu → doit être rejeté
+B1,True        # booléen → doit être rejeté
+C3,100         # point d'ébullition → gaz

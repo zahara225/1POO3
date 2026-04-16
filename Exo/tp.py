@@ -14,3 +14,6 @@ p2 = Produit("MS-001", "Souris", 49.99)
 
 print(p1)
 print(repr(p1))
+print([p1, p2])       
+for p in [p1, p2]:
+    print(p)               
